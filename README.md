@@ -10,7 +10,7 @@
 
 <img src="./img/img.png">
 
-Making an NFT collection, to put it together with our <a href="https://github.com/gab0071/whitelist-nextjs">whitelist</a> project, an overview of our project:
+Making an NFT collection, to put it together with our <a href="https://github.com/catherinee24/whitelist-nextjs">whitelist</a> project, an overview of our project:
 
 - There should only exist 20 Crypto Dev NFT's and each one of them should be unique.
 - User's should be able to mint only 1 NFT with one transaction.
