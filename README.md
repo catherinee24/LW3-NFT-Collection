@@ -1,6 +1,6 @@
 <h1 aling="center">NFT Collection Frontend ✨</h1>
 
-  <a href="https://github.com/gab0071" target="_blank">
+  <a href="https://github.com/catherinee24" target="_blank">
     <img alt="Author" src="https://img.shields.io/badge/made%20by-CatellaTech-blueviolet?style=flat-square">
   </a>
  
